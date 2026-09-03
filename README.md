@@ -1,4 +1,4 @@
-# OIBSIP_PythonProgramming_Task1
+# Random Password Generator# 
 ## Description  This project is a simple Random Password Generator built using Python. It generates strong passwords using uppercase letters, lowercase letters, numbers, and special characters.
 ## Features
 
